@@ -10,7 +10,7 @@
 - Componente 2
   - Component 2.1
 * Nigaman
-* *Hola mundo xF2c*
+* *Hola mundo xFsas2c*
 * **Lil peep**
 * **&**
 * Save that shit
